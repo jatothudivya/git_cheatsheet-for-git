@@ -1,1 +1,1 @@
-# git_cheatsheet-for-git
+# git_cheatsheet-for-github
